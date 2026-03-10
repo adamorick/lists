@@ -1,10 +1,29 @@
 # Gym Bag
 
-- Water bottle
-- Towel
-- Workout clothes
-- Gym shoes
+## Standard Pack
+
+- Shoes
 - Socks
-- Headphones
+- Pants
+- Underwear
+- Undershirt
+- Shirt
+- Overshirt
+- Towel
+- Belt
+
+## Destination Add-Ons
+
+### Main Gym
+
+- Nothing extra
+
+### Employer Gym
+
+- ID
+
+### Other Gym
+
 - Lock
 - Toiletries
+- Swim trunks
