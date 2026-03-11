@@ -11,3 +11,7 @@ Current lists:
 Access:
 
 - [iOS Shortcuts](./ios-shortcuts.md)
+
+Metadata:
+
+- [List Manifest](./lists.json)
