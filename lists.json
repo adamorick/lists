@@ -13,10 +13,5 @@
     "order": 30,
     "name": "Return Home",
     "file": "return-home.md"
-  },
-  {
-    "order": 40,
-    "name": "Context",
-    "file": "CONTEXT.md"
   }
 ]
